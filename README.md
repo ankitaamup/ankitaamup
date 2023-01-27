@@ -27,3 +27,16 @@ Technical Experience
     .Language or library used: MySQL,JDBC,Jframe
     
 **2.Hackathon INDIA 2022: Career Dendrogram **<br />
+
+### Skills 
+    • c
+    • C++
+    • java
+    • DBMS
+    
+### Profiles:
+    • **LinkeDin** - [https://www.linkedin.com/in/ankita-amup-24849121a] <br />
+    • **GitHub** - [] <br /> 
+    
+
+  
