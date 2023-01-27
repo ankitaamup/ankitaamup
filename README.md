@@ -32,7 +32,8 @@ Technical Experience
     • c
     • C++
     • java
-    • DBMS
+    • Database
+    • SQL
     
 ### Profiles:
     • **LinkeDin** - [https://www.linkedin.com/in/ankita-amup-24849121a] <br />
