@@ -1,16 +1,17 @@
-### Hi there 👋
+Ankita Amup 
+============
 
-<!--
-**ankitaamup/ankitaamup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+<!-- >  In this style, the resume starts with a blockquote, where
+>  you can briefly list your specialties, or include a salient
+>  quote. Ending a line with a backslash forces a line break. -->
 
-- 🔭 I’m currently working on ...Java
-- 🌱 I’m currently learning ...java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+Education
+---------
+
+2021 - Present
+:   **Engineering,<br /> Computer Engineering**; <br />Bharati Vidyapeeth College of Engineering (Pune)
+
