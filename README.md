@@ -38,5 +38,8 @@ Technical Experience
     • **LinkeDin** - [https://www.linkedin.com/in/ankita-amup-24849121a] <br />
     • **GitHub** - [https://github.com/ankitaamup] <br /> 
     
+----
 
+> **<ankitaamup2029@gmail.com ><br /> +91 7058660150 <br />
+> Address - Dr. Achyutrao Shankar Apte Vastigruh, Vidyarthi Shayak Samiti,  Pune - 411005**
   
