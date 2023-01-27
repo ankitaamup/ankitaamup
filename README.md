@@ -36,7 +36,7 @@ Technical Experience
     
 ### Profiles:
     • **LinkeDin** - [https://www.linkedin.com/in/ankita-amup-24849121a] <br />
-    • **GitHub** - [] <br /> 
+    • **GitHub** - [https://github.com/ankitaamup] <br /> 
     
 
   
